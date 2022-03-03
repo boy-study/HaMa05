@@ -1,8 +1,6 @@
-# Hi Everyone :wave:
-
 <p align="center">
   <samp>
-I'm Hama. A Frontend Developer from VietNam.
+Hi everyone, I'm Hama. A Frontend Developer from VietNam.
   </samp>
   <br/>
   <br/>
