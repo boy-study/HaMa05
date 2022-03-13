@@ -17,6 +17,6 @@ Hi everyone, I'm Hama. A Frontend Developer from VietNam.
 ## Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,ai,ps,pr,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,figma,ai,ps,pr" />
   </a>
 </p>
