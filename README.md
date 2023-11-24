@@ -12,7 +12,7 @@ Hi everyone, I'm Hama. A Frontend Developer from VietNam.
 </p>
         <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,mui,react,windicss" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,tailwindcss" />
   </a>
 </p>
         <p align="center">
